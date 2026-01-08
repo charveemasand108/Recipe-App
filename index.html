@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <nav>
+    <h1>Recipe App</h1>
+    <form>
+      <input 
+        type="text" 
+        class="searchBox" 
+        placeholder="Search recipes..."
+      />
+      <button class="searchBtn">Search</button>
+    </form>
+  </nav>
+</header>
+
+<main>
+  <div class="recipe-container"></div>
+</main>
+
+<!-- Recipe Modal -->
+<div class="recipe-modal hidden">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <h2 id="recipe-title"></h2>
+    <img id="recipe-img" />
+    <h3>Instructions</h3>
+    <p id="recipe-instructions"></p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
