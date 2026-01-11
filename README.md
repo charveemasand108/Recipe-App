@@ -47,8 +47,3 @@ The app is fully deployed and works smoothly across devices.
 
 ---
 
-## 📊 Repository Stats
-
-![Stars](https://img.shields.io/github/stars/charveemasand108/REPO_NAME?style=flat)
-![Forks](https://img.shields.io/github/forks/charveemasand108/REPO_NAME?style=flat)
-![Issues](https://img.shields.io/github/issues/charveemasand108/REPO_NAME?style=flat)
