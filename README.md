@@ -47,5 +47,8 @@ The app is fully deployed and works smoothly across devices.
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://img.shields.io/github/stars/charveemasand108/Recipe-App?style=flat" /> <img src="https://img.shields.io/github/forks/charveemasand108/Recipe-App?style=flat" /> <img src="https://img.shields.io/github/issues/charveemasand108/Recipe-App?style=flat" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true" /> </p>
+## 📊 Repository Stats
+
+![Stars](https://img.shields.io/github/stars/charveemasand108/REPO_NAME?style=flat)
+![Forks](https://img.shields.io/github/forks/charveemasand108/REPO_NAME?style=flat)
+![Issues](https://img.shields.io/github/issues/charveemasand108/REPO_NAME?style=flat)
